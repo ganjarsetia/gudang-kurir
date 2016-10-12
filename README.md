@@ -33,6 +33,16 @@ jalankan:
 
 buka [http://localhost:8000/](http://localhost:8000/)
 
-    
+# Login
+Login sebagai admin:
+	
+	user: admin@aaganjar.com
+	pass: admin
+
+Login Sebagai kurir
+
+	user: kurir@aaganjar.com
+	pass: kurir    
+
 
 # Created By: Ganjar Setia
